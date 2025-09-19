@@ -1,5 +1,7 @@
 # Dodge The Creeps
 
+![Game Preview](preview.gif)
+
 A simple arcade-style game built with **Godot Engine** where you dodge waves of creeps for as long as possible.
 
 ## Features
